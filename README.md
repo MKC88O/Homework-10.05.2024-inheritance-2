@@ -1,0 +1,1 @@
+# Homework-10.05.2024-inheritance-2
